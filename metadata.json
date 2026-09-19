@@ -1,0 +1,6 @@
+{
+  "name": "FreeJobs",
+  "description": "FreeJobs - Private job updates, notifications, and job preparation video guides with Kannada & English language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
